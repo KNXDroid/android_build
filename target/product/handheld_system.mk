@@ -33,7 +33,6 @@ $(call inherit-product-if-exists, frameworks/base/data/keyboards/keyboards.mk)
 $(call inherit-product-if-exists, frameworks/webview/chromium/chromium.mk)
 
 PRODUCT_PACKAGES += \
-    BasicDreams \
     BlockedNumberProvider \
     BluetoothMidiService \
     BookmarkProvider \
@@ -47,7 +46,6 @@ PRODUCT_PACKAGES += \
     DeviceAsWebcam \
     DocumentsUI \
     DownloadProviderUi \
-    EasterEgg \
     ExternalStorageProvider \
     FusedLocation \
     InputDevices \
@@ -59,7 +57,6 @@ PRODUCT_PACKAGES += \
     MusicFX \
     PacProcessor \
     preinstalled-packages-platform-handheld-system.xml \
-    PrintRecommendationService \
     PrintSpooler \
     ProxyHandler \
     screenrecord \
