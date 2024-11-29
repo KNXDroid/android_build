@@ -53,6 +53,7 @@ PRODUCT_PACKAGES += \
     ManagedProvisioning \
     MmsService \
     MtpService \
+    EasterEgg \
     MusicFX \
     PacProcessor \
     preinstalled-packages-platform-handheld-system.xml \
